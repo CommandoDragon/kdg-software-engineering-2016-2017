@@ -15,8 +15,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bouwens Bart
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: bart.bouwens@student.kdg.be
+	- github: https://github.com/CommandoDragon/software-engineering-oplossingen.git
 
 - De Cock Sam
 	- e-mailadres: naam@student.kdg.be
